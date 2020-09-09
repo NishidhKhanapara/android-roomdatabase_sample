@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_word">Add Word</string>
+    <string name="enter_a_new_word">Enter a new word</string>
+    <string name="no_any_word_found">No Any Word Found</string>
+</resources>
