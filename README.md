@@ -2,7 +2,7 @@
 
 This is a demo app on how to implement Room data databse, making use of LiveData in Android app
 
-### Libary Used
+### Library Used
 * Room Database
 * ViewModel
 * Live Data
